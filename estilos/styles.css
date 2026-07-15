@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: rgb(red, green, blue);
+    background-color: rgb(red, green, rgb(155, 155, 170));
 
 }
 
 main {
-    background-color: blue;
+    background-color: rgb(139, 139, 173);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(red, green, blue, alpha);
+    box-shadow: 3px 3px 5px rgba(red, green, rgb(177, 177, 209), alpha);
 }
